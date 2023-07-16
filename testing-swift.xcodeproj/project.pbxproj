@@ -14,6 +14,7 @@
 		E445C9212A6443690019887D /* testing_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E445C9202A6443690019887D /* testing_swiftTests.swift */; };
 		E445C92B2A6443690019887D /* testing_swiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E445C92A2A6443690019887D /* testing_swiftUITests.swift */; };
 		E445C92D2A6443690019887D /* testing_swiftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E445C92C2A6443690019887D /* testing_swiftUITestsLaunchTests.swift */; };
+		E445C93A2A64437E0019887D /* Hater.swift in Sources */ = {isa = PBXBuildFile; fileRef = E445C9392A64437E0019887D /* Hater.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		E445C9262A6443690019887D /* testing-swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "testing-swiftUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E445C92A2A6443690019887D /* testing_swiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testing_swiftUITests.swift; sourceTree = "<group>"; };
 		E445C92C2A6443690019887D /* testing_swiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testing_swiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E445C9392A64437E0019887D /* Hater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hater.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				E445C9112A6443680019887D /* ContentView.swift */,
 				E445C9132A6443690019887D /* Assets.xcassets */,
 				E445C9152A6443690019887D /* Preview Content */,
+				E445C9392A64437E0019887D /* Hater.swift */,
 			);
 			path = "testing-swift";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				E445C9122A6443680019887D /* ContentView.swift in Sources */,
 				E445C9102A6443680019887D /* testing_swiftApp.swift in Sources */,
+				E445C93A2A64437E0019887D /* Hater.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
